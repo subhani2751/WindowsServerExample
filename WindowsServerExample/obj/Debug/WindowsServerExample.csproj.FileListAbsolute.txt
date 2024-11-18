@@ -1,0 +1,10 @@
+C:\Users\subha\source\repos\WindowsServerExample\WindowsServerExample\bin\Debug\WindowsServerExample.exe.config
+C:\Users\subha\source\repos\WindowsServerExample\WindowsServerExample\bin\Debug\WindowsServerExample.exe
+C:\Users\subha\source\repos\WindowsServerExample\WindowsServerExample\bin\Debug\WindowsServerExample.pdb
+C:\Users\subha\source\repos\WindowsServerExample\WindowsServerExample\bin\Debug\Topshelf.dll
+C:\Users\subha\source\repos\WindowsServerExample\WindowsServerExample\bin\Debug\Topshelf.xml
+C:\Users\subha\source\repos\WindowsServerExample\WindowsServerExample\obj\Debug\WindowsServerExample.csproj.AssemblyReference.cache
+C:\Users\subha\source\repos\WindowsServerExample\WindowsServerExample\obj\Debug\WindowsServerExample.csproj.CoreCompileInputs.cache
+C:\Users\subha\source\repos\WindowsServerExample\WindowsServerExample\obj\Debug\WindowsServerExample.csproj.CopyComplete
+C:\Users\subha\source\repos\WindowsServerExample\WindowsServerExample\obj\Debug\WindowsServerExample.exe
+C:\Users\subha\source\repos\WindowsServerExample\WindowsServerExample\obj\Debug\WindowsServerExample.pdb
